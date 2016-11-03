@@ -1,0 +1,6 @@
+c:\projects\övning 12\övning 12\bin\Debug\övning 12.exe.config
+c:\projects\övning 12\övning 12\bin\Debug\övning 12.exe
+c:\projects\övning 12\övning 12\bin\Debug\övning 12.pdb
+c:\projects\övning 12\övning 12\obj\Debug\övning 12.csprojResolveAssemblyReference.cache
+c:\projects\övning 12\övning 12\obj\Debug\övning 12.exe
+c:\projects\övning 12\övning 12\obj\Debug\övning 12.pdb
