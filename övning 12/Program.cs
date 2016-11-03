@@ -95,6 +95,10 @@ namespace övning_12
         }
         static void Main(string[] args)
         {
+            for (int i = 0; i < 10; i++)
+            {
+                MartinsMetod();
+            }
             Person[] myList = new Person[2];
 
             Person tmp = new Person();
@@ -128,6 +132,11 @@ namespace övning_12
                 Console.WriteLine($"{myList[i].firstName} {myList[i].phoneNumber} {myList[i].email}");
             }
 
+        }
+
+        public static void MartinsMetod()
+        {
+            Console.WriteLine("Martin är bäst");
         }
     }
 }
