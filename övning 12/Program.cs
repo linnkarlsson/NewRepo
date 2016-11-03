@@ -11,7 +11,7 @@ namespace övning_12
         public string firstName;
         public string phoneNumber;
         public string email;
-        //hallå hej
+        //hallå hej hej
     }
 
 
